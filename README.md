@@ -46,6 +46,6 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 2021.3.10，每60天来加一条
-
+2021.4.19  每隔30天更新
 
 
